@@ -2,7 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+/[Ll]ibrary/*
 /[Ll]ibrary/
+/[Ll]ibrary/**
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -22,6 +24,8 @@
 # Visual Studio cache directory
 .vs/
 
+# Library Artifacts
+/[Ll]ibrary/Artifacts/*
 # Gradle cache directory
 .gradle/
 

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7980688e318901498780afc53e44c77, type: 3}
+  m_Name: Wate
+  m_EditorClassIdentifier: 
+  possibleTerrain:
+  - {fileID: 1805345122637849528, guid: 151f5d2bd4e07f040a546b4e301b610b, type: 3}
+  - {fileID: 6000765417193120720, guid: c7ba8aa0c9cfa784595728db2a1a1683, type: 3}
+  maxInSuccession: 3

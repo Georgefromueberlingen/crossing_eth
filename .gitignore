@@ -6,11 +6,13 @@
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
-/[Bb]uilds/
+[Bb]uilds/
 [Ll]ogs/
-/[Mm]emoryCaptures/
+[Mm]emoryCaptures/
 Library/CurrentMaximizeLayout.dwlt
 Library/SceneVisibilityState.asset
+/Crossy-Road/Library/CurrentMaximizeLayout.dwlt
+/Crossy-Road/Library/SceneVisibilityState.asset
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
